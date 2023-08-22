@@ -44,7 +44,7 @@
     "VisualStudioExptTeam.intellicode-api-usage-examples",
     "Postman.postman-for-vscode",
     "aaron-bond.better-comments",
-    "deinsoftware.arrow-function-snippets"
+    "vinliao.fast-arrow"
     // Additional Extensions Here
   ],
   "onCreateCommand": "echo PS1='\"$ \"' >> ~/.bashrc",
