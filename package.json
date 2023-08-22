@@ -1,0 +1,10 @@
+{
+  "name": "node-js-essential-training-14888164",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/datttrian/node-js-essential-training-14888164",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.47.0"
+  }
+}
